@@ -1,0 +1,4 @@
+caso 14
+nbarras
+nmeds
+plano de medição
